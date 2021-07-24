@@ -16,20 +16,7 @@ export default {
 </script>
 
 <style lang="scss">
-  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
-  *{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: 'Rubik', sans-serif;;
-  }
-
-  body{
-    width: 100%;
-    background: #0F4C75;
-  }
-
-
+  @import "./assets/scss/app.scss";
   #app{
     h2{
       text-align: center;
