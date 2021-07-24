@@ -20,7 +20,7 @@ export default {
   #app{
     h2{
       text-align: center;
-      margin-top:2rem;
+      margin-top:3rem;
       color: #fff;
       font-size: 35px;
     }
